@@ -70,8 +70,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com"
   image:
-    x: "img/who-am-i/sunil.jpg"
-    _2x: "img/who-am-i/sunil.jpg"
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
 
 # experience
 experience:
@@ -216,8 +216,8 @@ contact:
   title: "Contact Matt"
     
   image:
-    x: "img/who-am-i/sunil.jpg"
-    _2x: "img/who-am-i/sunil.jpg"
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
     
   button:
     icon: "icon-mail-fill"
