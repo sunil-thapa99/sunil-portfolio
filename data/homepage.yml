@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Sunil Thapa."
-  subtitle: "Data Scientist Enthusiast"
+  subtitle: "Data Science Enthusiast"
   description: "Sunil is a Software Engineer with a passion for Artificial Intelligence and Machine Learning."
   image:
     x: "img/showcase/data-science.gif"
