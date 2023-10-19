@@ -1,12 +1,12 @@
 head:
-  title: "Matt Dancho's Data Science Portfolio"
+  title: "Sunil Thapa's Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Matt Dancho."
-  subtitle: "Data Scientist"
-  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  title: "Hello, I’m Sunil Thapa."
+  subtitle: "Data Scientist Enthusiast"
+  description: "Sunil is a Software Engineer with a passion for Artificial Intelligence and Machine Learning."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -17,38 +17,14 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Matt"
-    URL: "mailto:your-email@gmail.com"
+    URL: "mailto:sunil43thapa@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com"
+      URL: "https://www.linkedin.com/in/sunil-thapa99/"
 
     - icon: "github"
-      URL: "https://github.com"
-
-    - icon: "twitter"
-      URL: "https://twitter.com"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com"
-
-    - icon: "behance"
-      URL: "https://www.behance.net"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://github.com/sunil-thapa99"
 
 # about
 about:
@@ -56,73 +32,60 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
+    I am a <strong>passionate Software Engineer</strong> with a strong focus on Artificial Intelligence and Machine Learning. My enthusiasm lies in leveraging data science and analytics for business solutions. I enjoy leading and contributing to projects that make a meaningful impact. When I'm not developing software or working on AI projects, I relish opportunities to enhance my knowledge and skills in this domain, such as pursuing a Post-Graduate Certificate in Artificial Intelligence at Lambton College.
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    My area of expertise centers around creating AI-driven solutions, whether it's developing recommendation systems, deep-learning models for human action detection, or deploying systems on cloud platforms like Amazon's Elastic Container Services. I thrive on solving complex problems, and I take pride in my ability to communicate with stakeholders and work collaboratively with teams to make data-driven decisions that deliver value to companies.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    URL: "https://www.linkedin.com/in/sunil-thapa99/"
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/user-picture-2-0.jpeg"
+    _2x: "img/who-am-i/user-picture-2-0.jpeg"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "Over 3+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
+    URL: "https://www.linkedin.com/in/sunil-thapa99//"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/resume-matt.pdf"
+    URL: "/cv/Sunil Thapa Resume Co op.pdf"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Software Engineer - Python"
+      company: "Magdotnet"
+      duration: "Apr 2022 - Jul 2022"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
-
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Software Engineer"
+      company: "InfoDevelopers Pvt. Ltd"
+      duration: "Jun 2019 - Mar 2022"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Penn State University"
-      year: "2014-2015"
-      degree: "Master of Business Administration (MBA)"
+    - university: "Lambton College"
+      year: "2022-2024"
+      degree: "Post Graduate in Artificial Intelligence and Machine Learning"
 
-    - university: "University of Pittsburgh"
-      year: "2008-2010"
-      degree: "Master of Industrial Engineering"
-      
-    - university: "Penn State University"
-      year: "2002-2006"
-      degree: "Bachelor of Mechanical Engineering"
-
+    - university: "University of Northampton"
+      year: "2016-2019"
+      degree: "BSc. (Honors) in Computing (Software Engineering)"
 
 
 # Client & Work
 client_and_work:
   title: "Portfolio"
-  enable: true
+  enable: false
   
   enable_clients: false
   clients:
@@ -184,61 +147,53 @@ client_and_work:
 # testimonial
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "Recommendations"
   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - name: "Himalaya Kakshapati"
+      position: "Machine Learning Engineer"
+      content: "Sunil is a diligent, intelligent, and well-mannered individual. He has impressed me with his creativity, resourcefulness, and problem solving skills. His perseverance, quest for knowledge, and attention to detail are some of his forte."
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+        x: "img/testimonials/himalaya_sir.jpeg"
+        _2x: "img/testimonials/himalaya_sir.jpeg"
         
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+    - name: "Nitesh Ghimire"
+      position: "AI Engineer"
+      content: "Sunil is a great professional with outstanding attitude and skills. I worked with him for more than two years. I was always impressed by his ability to dedicate himself and inspire all around him."
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
+        x: "img/testimonials/nitesh.jfif"
+        _2x: "img/testimonials/nitesh.jfif"
 
     
 
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+    - name: "Shushanta Pudasaini"
+      position: "Machine Learning Engineer"
+      content: "I managed Sunil in various projects during his tenure in Infordevelopers Pvt Ltd. I can assure you that he is a very responsible, talented developer with proficiency in several domains and tools. Along with that, he has good problem-solving skills. It was a pleasure managing him."
       image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
+        x: "img/testimonials/shushanta.jfif"
+        _2x: "img/testimonials/shushanta.jfif"
 
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
+  title: "Contact Sunil"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/user-picture-2-0.jpeg"
+    _2x: "img/who-am-i/user-picture-2-0.jpeg"
     
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnAction: 'mailto:sunil43thapa@gmail.com'
     
   phone:
     title: "Phone Number"
-    number: "--"
+    number: "+1 (437) 970-0802"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+    email: '<a href="mailto:sunil43thapa@gmail.com">sunil43thapa@gmail.com</a>'
   address:
     title: "Address"
-    address: "--"
+    address: "Toronto, Canada"
   
-
-# newsletter
-newsletter:
-  enable: false
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
