@@ -179,8 +179,8 @@ contact:
   title: "Contact Sunil"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpeg"
-    _2x: "img/who-am-i/user-picture-2.jpeg"
+    x: "img/who-am-i/user-picture-2-0.jpeg"
+    _2x: "img/who-am-i/user-picture-2-0.jpeg"
     
   button:
     icon: "icon-mail-fill"
