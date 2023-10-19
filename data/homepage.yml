@@ -149,9 +149,9 @@ research:
   title: "Research Paper"
   items:
     - name: "NepaliBERT: Pre-training of Masked Language Model in Nepali Corpus"
-      year: "2022"
-      publication: I-SMAC 2023
-      degree: "This research aims to address the absence of publicly available NLP models for the Nepali language by providing word embeddings using Word2Vec, Doc2Vec, and BERT architectures to serve as a foundation for benchmarking various NLP tasks."
+      year: "2023"
+      publication: I-SMAC
+      content: "This research aims to address the absence of publicly available NLP models for the Nepali language by providing word embeddings using Word2Vec, Doc2Vec, and BERT architectures to serve as a foundation for benchmarking various NLP tasks."
 
     - name: "Clothes Identification Using Inception ResNet V2 and MobileNet V2"
       year: "2021"

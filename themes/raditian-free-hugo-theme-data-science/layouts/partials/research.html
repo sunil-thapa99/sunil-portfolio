@@ -1,23 +1,23 @@
 {{ if .Site.Data.homepage.research.enable }}
-<section class="section rad-animation-group section--border-bottom">
+<section class="section section--border-bottom rad-animation-group">
     <div class="container">
-        <h2 class="rad-fade-down">{{ .Site.Data.homepage.research.title }}</h2>
-        <div class="row row--padded mb-0 rad-fade-down">
-            {{ range .Site.Data.homepage.research.items }}
-            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
-                <i class="icon-quote"></i>
-                <p>
-                    {{ .content | safeHTML }}
-                </p>
-                <div class="testimonial__author">
-                    <div class="testimonial__author-info">
-                        <h4>{{ .name }}</h4>
-                        <span>{{ .year }}</span>
-                        <span>{{ .publication }}</span>
+        <div class="row rad-fade-down">
+            <div class="col-12">
+                <h2>{{ .Site.Data.homepage.research.title | safeHTML }}</h2>
+                <div class="row pt-2 pt-md-4">
+                    {{ range .Site.Data.homepage.research.items }}
+                    <div class="col-12 col-sm-6 mb-4 mb-sm-0">
+                        <div class="education">
+                            <div class="education__date">{{ .publication | safeHTML }} - {{ .year | safeHTML }}</div>
+                            <div class="education__title">{{ .name | safeHTML }}</div>
+                            <div class="education__degree">
+                                {{ .content | safeHTML }}
+                            </div>
+                        </div>
                     </div>
+                    {{ end }}
                 </div>
             </div>
-            {{ end }}
         </div>
     </div>
 </section>
