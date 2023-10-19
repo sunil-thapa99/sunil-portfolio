@@ -1,0 +1,24 @@
+{{ if .Site.Data.homepage.research.enable }}
+<section class="section rad-animation-group section--border-bottom">
+    <div class="container">
+        <h2 class="rad-fade-down">{{ .Site.Data.homepage.research.title }}</h2>
+        <div class="row row--padded mb-0 rad-fade-down">
+            {{ range .Site.Data.homepage.research.items }}
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    {{ .content | safeHTML }}
+                </p>
+                <div class="testimonial__author">
+                    <div class="testimonial__author-info">
+                        <h4>{{ .name }}</h4>
+                        <span>{{ .year }}</span>
+                        <span>{{ .publication }}</span>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

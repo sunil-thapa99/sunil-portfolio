@@ -143,6 +143,21 @@ client_and_work:
       is_even: false
 
     
+# research
+research:
+  enable: true
+  title: "Research Paper"
+  items:
+    - name: "NepaliBERT: Pre-training of Masked Language Model in Nepali Corpus"
+      year: "2022"
+      publication: I-SMAC 2023
+      degree: "This research aims to address the absence of publicly available NLP models for the Nepali language by providing word embeddings using Word2Vec, Doc2Vec, and BERT architectures to serve as a foundation for benchmarking various NLP tasks."
+
+    - name: "Clothes Identification Using Inception ResNet V2 and MobileNet V2"
+      year: "2021"
+      publication: SSRN
+      content: "The paper illustrates the implementation of ResNet V2 for a cloth identification model trained on nine categories of cloth. The model achieved an 84.11% of accuracy on the test dataset."
+
 
 # testimonial
 testimonial:
