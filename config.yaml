@@ -10,8 +10,8 @@ params:
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Seth
-    text2: Billiau
+    text1: Sunil
+    text2: Thapa
   plugins:
     css:
       - URL: css/main.css

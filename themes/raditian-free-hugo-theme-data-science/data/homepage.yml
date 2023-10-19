@@ -16,7 +16,7 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Matt"
+    btnText: "Contact Sunil"
     URL: "mailto:sunil43thapa@gmail.com"
 
   socialLinks:
@@ -42,8 +42,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/sunil-thapa99/"
   image:
-    x: "img/who-am-i/user-picture-2-0.jpeg"
-    _2x: "img/who-am-i/user-picture-2-0.jpeg"
+    x: "img/who-am-i/user-picture-2.jpeg"
+    _2x: "img/who-am-i/user-picture-2.jpeg"
 
 # experience
 experience:
@@ -179,8 +179,8 @@ contact:
   title: "Contact Sunil"
     
   image:
-    x: "img/who-am-i/user-picture-2-0.jpeg"
-    _2x: "img/who-am-i/user-picture-2-0.jpeg"
+    x: "img/who-am-i/user-picture-2.jpeg"
+    _2x: "img/who-am-i/user-picture-2.jpeg"
     
   button:
     icon: "icon-mail-fill"
