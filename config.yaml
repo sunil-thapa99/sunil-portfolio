@@ -35,13 +35,37 @@ menu:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#portfolio'
-      name: Portfolio
+    - URL: '#experience'
+      name: Experience
       weight: 3
+    - URL: '#education'
+      name: Education
+      weight: 4
+    - URL: '#research'
+      name: Research
+      weight: 5
+    - URL: '#testimonial'
+      name: Testimonial
+      weight: 6
+    - URL: '#contact'
+      name: Contact
+      weight: 7
   header:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#portfolio'
-      name: Portfolio
+    - URL: '#experience'
+      name: Experience
       weight: 3
+    - URL: '#education'
+      name: Education
+      weight: 4
+    - URL: '#research'
+      name: Research
+      weight: 5
+    - URL: '#testimonial'
+      name: Testimonial
+      weight: 6
+    - URL: '#contact'
+      name: Contact
+      weight: 7
