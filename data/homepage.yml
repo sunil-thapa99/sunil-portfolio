@@ -57,7 +57,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/Sunil Thapa Resume Co op.pdf"
+    URL: "/cv/Resume.pdf"
 
   items:
     - title: "Software Engineer - Python"
