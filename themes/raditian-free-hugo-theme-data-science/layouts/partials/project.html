@@ -4,8 +4,7 @@
         <div class="row rad-fade-down">
             <div class="col-12">
                 <h2>{{ .Site.Data.homepage.project.title | safeHTML }}</h2>
-
-                <div id="carouselExampleControls" class="carousel" data-bs-ride="carousel">
+                <div id="carouselExampleControls" class="carousel">
                     <div class="carousel-inner">
                         {{ range .Site.Data.homepage.project.items }}
                             {{ if .is_active }}
@@ -13,7 +12,6 @@
                             {{ else }}
                             <div class="carousel-item">
                             {{ end }}
-                            <img src="{{ .image.x | absURL }}" alt="..." class="img-project">
                                 <div class="card">
                                     <div class="img-wrapper">
                                         <img src="{{ .image.x | absURL }}" alt="..." class="img-project">
@@ -31,14 +29,16 @@
                         {{ end }}
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Previous</span>
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
                     </button>
                     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span>
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
                     </button>
                 </div>
+
+                
             </div>
         </div>
     </div>

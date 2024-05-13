@@ -81,6 +81,31 @@ education:
       year: "2016-2019"
       degree: "BSc. (Honors) in Computing (Software Engineering)"
 
+# Project
+project:
+  title: "Project"
+  enable: true
+  items:
+    - name: "Breast Cancer Prediction App"
+      description: "This app is designed to assist in diagnosing breast cancer by predicting whether a breast mass is benign or malignant."
+      is_active: true
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Github"
+        URL: "https://github.com/sunil-thapa99/breast-cancer-streamlit"
+      image:
+        x: "img/projects/breast-cancer.png"
+    - name: "Sudoku Solver App"
+      description: "This app solves sudoku of any NxN-D using Backtracking algorithm combined with OpenCV for image processing."
+      is_active: true
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Github"
+        URL: "https://github.com/sunil-thapa99/sudoku_solver"
+      image:
+        x: "img/projects/sudoku-solver.png"
+    
+
 # research
 research:
   enable: true

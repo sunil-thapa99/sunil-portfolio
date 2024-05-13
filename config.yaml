@@ -45,9 +45,9 @@ menu:
     - URL: '#research'
       name: Research
       weight: 5
-    # - URL: '#project'
-    #   name: Project
-    #   weight: 6
+    - URL: '#project'
+      name: Project
+      weight: 6
     - URL: '#testimonial'
       name: Testimonial
       weight: 7
@@ -67,9 +67,9 @@ menu:
     - URL: '#research'
       name: Research
       weight: 5
-    # - URL: '#project'
-    #   name: Project
-    #   weight: 6
+    - URL: '#project'
+      name: Project
+      weight: 6
     - URL: '#testimonial'
       name: Testimonial
       weight: 7
