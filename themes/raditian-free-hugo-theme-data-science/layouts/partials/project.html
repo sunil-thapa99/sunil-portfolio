@@ -1,0 +1,41 @@
+{{ if .Site.Data.homepage.project.enable }}
+<section class="section section--border-bottom rad-animation-group" id="project">
+    <div class="container">
+        <div class="row rad-fade-down">
+            <div class="col-12">
+                <h2>{{ .Site.Data.homepage.project.title | safeHTML }}</h2>
+
+                <div id="carouselExampleControls" class="carousel" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        {{ range .Site.Data.homepage.project.items }}
+                            <div class="carousel-item">
+                                <div class="card">
+                                    <div class="img-wrapper">
+                                        <img src="{{ .image.x | absURL }}" alt="..." class="img-project">
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{ .name | safeHTML}}</h5>
+                                        <p class="card-text">{{ .description | safeHTML }}</p>
+                                        <a href="{{ .button.URL | absURL }}" class="btn btn-primary" target="_blank">
+                                            {{ .button.btnText }}
+                                            <i class="{{ .button.icon }}"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        {{ end }}
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

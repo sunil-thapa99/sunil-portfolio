@@ -28,6 +28,7 @@ params:
     - experience
     - education
     - research
+    - project
     - testimonial
     - contact
 menu:
@@ -44,12 +45,15 @@ menu:
     - URL: '#research'
       name: Research
       weight: 5
+    - URL: '#project'
+      name: Project
+      weight: 6
     - URL: '#testimonial'
       name: Testimonial
-      weight: 6
+      weight: 7
     - URL: '#contact'
       name: Contact
-      weight: 7
+      weight: 8
   header:
     - URL: '#about'
       name: About
@@ -63,9 +67,12 @@ menu:
     - URL: '#research'
       name: Research
       weight: 5
+    - URL: '#project'
+      name: Project
+      weight: 6
     - URL: '#testimonial'
       name: Testimonial
-      weight: 6
+      weight: 7
     - URL: '#contact'
       name: Contact
-      weight: 7
+      weight: 8

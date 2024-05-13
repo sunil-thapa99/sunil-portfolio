@@ -81,68 +81,60 @@ education:
       year: "2016-2019"
       degree: "BSc. (Honors) in Computing (Software Engineering)"
 
-
-# Client & Work
-client_and_work:
-  title: "Portfolio"
-  enable: false
-  
-  enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
-
-  works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+# Project
+project:
+  title: "Project"
+  enable: true
+  items:
+    - name: "Loorem Ipsum Dolor Sit Amet"
+      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        URL: "https://github.com/sunil-thapa99/breast-cancer-streamlit"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
-      is_even: true
-
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+    - name: "Loorem Ipsum Dolor Sit Amet 2"
+      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        URL: "https://github.com/sunil-thapa99/breast-cancer-streamlit"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
-      is_even: false
+        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+    - name: "Loorem Ipsum Dolor Sit Amet 3"
+      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://github.com/sunil-thapa99/question_pro_seq2seq"
+      image:
+        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+    - name: "Loorem Ipsum Dolor Sit Amet 4"
+      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://github.com/sunil-thapa99/QuestionPro"
+      image:
+        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+    - name: "Loorem Ipsum Dolor Sit Amet 5"
+      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://github.com/sunil-thapa99/resume"
+      image:
+        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+    - name: "Loorem Ipsum Dolor Sit Amet 6"
+      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://github.com/sunil-thapa99/AML-3104"
+      image:
+        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
 
-    
 # research
 research:
   enable: true
