@@ -88,6 +88,7 @@ project:
   items:
     - name: "Loorem Ipsum Dolor Sit Amet"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      is_active: true
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -96,6 +97,7 @@ project:
         x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
     - name: "Loorem Ipsum Dolor Sit Amet 2"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      is_active: false
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -104,6 +106,7 @@ project:
         x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
     - name: "Loorem Ipsum Dolor Sit Amet 3"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      is_active: false
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -112,6 +115,7 @@ project:
         x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
     - name: "Loorem Ipsum Dolor Sit Amet 4"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      is_active: false
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -120,6 +124,7 @@ project:
         x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
     - name: "Loorem Ipsum Dolor Sit Amet 5"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      is_active: false
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -128,6 +133,7 @@ project:
         x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
     - name: "Loorem Ipsum Dolor Sit Amet 6"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
+      is_active: false
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
