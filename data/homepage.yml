@@ -103,7 +103,7 @@ project:
         btnText: "Launch Application"
         URL: "https://github.com/sunil-thapa99/breast-cancer-streamlit"
       image:
-        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+        x: "https://cdn-0.codingyaar.com/wp-content/uploads/multiple-items-carousel-slide-1-card-3.jpg"
     - name: "Loorem Ipsum Dolor Sit Amet 3"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
       is_active: false
@@ -112,7 +112,7 @@ project:
         btnText: "Launch Application"
         URL: "https://github.com/sunil-thapa99/question_pro_seq2seq"
       image:
-        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+        x: "https://cdn-0.codingyaar.com/wp-content/uploads/multiple-items-carousel-slide-1-card-2.jpg"
     - name: "Loorem Ipsum Dolor Sit Amet 4"
       description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
       is_active: false
@@ -121,25 +121,7 @@ project:
         btnText: "Launch Application"
         URL: "https://github.com/sunil-thapa99/QuestionPro"
       image:
-        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
-    - name: "Loorem Ipsum Dolor Sit Amet 5"
-      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
-      is_active: false
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://github.com/sunil-thapa99/resume"
-      image:
-        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
-    - name: "Loorem Ipsum Dolor Sit Amet 6"
-      description: "This is a project that I worked on during my tenure at InfoDevelopers Pvt. Ltd. The project involved developing a recommendation system for an e-commerce platform. The system was designed to provide personalized recommendations to users based on their browsing history and purchase behavior."
-      is_active: false
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://github.com/sunil-thapa99/AML-3104"
-      image:
-        x: "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+        x: "https://cdn-0.codingyaar.com/wp-content/uploads/multiple-items-carousel-slide-1-card-1.jpg"
 
 # research
 research:
