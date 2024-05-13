@@ -83,7 +83,7 @@ education:
 
 # Project
 project:
-  title: "Project"
+  title: "Projects"
   enable: true
   items:
     - name: "Breast Cancer Prediction App"
